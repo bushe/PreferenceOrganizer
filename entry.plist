@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "PreferenceOrganizerSettings";
+		cell = PSLinkCell;
+		detail = "POListController";
+		icon = "PreferenceOrganizer.png";
+		isController = 1;
+		label = "PreferenceOrganizer";
+	};
+}

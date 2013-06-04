@@ -1,0 +1,12 @@
+Package: me.qusic.preferenceorganizer
+Name: PreferenceOrganizer
+Depends: firmware (>= 5.0), mobilesubstrate
+Version: 1.2.2
+Architecture: iphoneos-arm
+Description: A simple and free alternative to Preference Folders.
+Author: Qusic & kindadev
+Section: Tweaks
+ompatible with newer devices or iOS.
+Author: Qusic & kindadev
+Section: Tweaks
+s
